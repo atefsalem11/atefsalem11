@@ -7,6 +7,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/atefsalem11?style=social)](https://github.com/atefsalem11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atef_salem1)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:atefsalem459@email.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat&logo=instagram)](https://instagram.com/atef.salem00)
 
 </div>
 
@@ -19,7 +20,7 @@ My work covers the full analytics lifecycle: **data preparation, cleaning, explo
 - 🔭 Currently working on: BI dashboards & analytical projects  
 - 🌱 Learning: Advanced SQL, DAX, and data modeling  
 - 💼 Open to: Data Analysis & Business Intelligence opportunities  
-- 📫 Contact: **atefsalem459@gmail.com**
+- 📫 Reach me at: **atefsalem459@gmail.com**
 
 ---
 
@@ -59,22 +60,6 @@ My work covers the full analytics lifecycle: **data preparation, cleaning, explo
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atefsalem11&layout=compact&hide_border=true"/>
 </p>
-
----
-
-## 🌐 Connect with Me  
-<p>
-  <a href="https://www.linkedin.com/in/atef_salem1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:atefsalem459@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/atef.salem00/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
 ---
 ![Snake Animation](https://github.com/atefsalem11/atefsalem11/blob/f8adf4beb49e3fe409a6edc79304c317c056fbaa/snake-dark.svg
 )
