@@ -1,20 +1,29 @@
 <!-- Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=110&section=header&text=Atef%20Salem%20|%20Data%20Analyst&fontColor=ffffff&fontSize=35&fontAlignY=60"/>
 
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=atefsalem11&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/atefsalem11)
+[![GitHub Followers](https://img.shields.io/github/followers/atefsalem11?style=social)](https://github.com/atefsalem11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/atef_salem1)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:atefsalem459@email.com)
+
+</div>
+
 ---
 
 ## 👋 About Me  
 I’m **Atef Salem**, a Data Analyst focused on transforming raw datasets into meaningful insights that support business decisions.  
 My work covers the full analytics lifecycle: **data preparation, cleaning, exploration, statistical analysis, dashboards, and reporting**.
 
-- 📊 Currently working on: BI dashboards & analytical projects  
-- 🧠 Learning: Advanced SQL, DAX, and data modeling  
-- 🤝 Open to: Data Analysis & Business Intelligence opportunities  
+- 🔭 Currently working on: BI dashboards & analytical projects  
+- 🌱 Learning: Advanced SQL, DAX, and data modeling  
+- 💼 Open to: Data Analysis & Business Intelligence opportunities  
 - 📫 Contact: **atefsalem459@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### **Languages**
 <div align="left">
