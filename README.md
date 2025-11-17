@@ -61,5 +61,6 @@ My work covers the full analytics lifecycle: **data preparation, cleaning, explo
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atefsalem11&layout=compact&hide_border=true"/>
 </p>
 ---
+
 ![Snake Animation](https://github.com/atefsalem11/atefsalem11/blob/f8adf4beb49e3fe409a6edc79304c317c056fbaa/snake-dark.svg
 )
