@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 About Me  
+##  About Me  
 I’m **Atef Salem**, a Data Analyst focused on transforming raw datasets into meaningful insights that support business decisions.  
 My work covers the full analytics lifecycle: **data preparation, cleaning, exploration, statistical analysis, dashboards, and reporting**.
 
@@ -24,7 +24,7 @@ My work covers the full analytics lifecycle: **data preparation, cleaning, explo
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Languages**
 <div align="left">
@@ -50,7 +50,7 @@ My work covers the full analytics lifecycle: **data preparation, cleaning, explo
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=atefsalem11&show_icons=true&theme=default&hide_border=true&rank_icon=github"/>
