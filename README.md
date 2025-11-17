@@ -14,7 +14,39 @@ I work across the full analytics lifecycle: **data preparation, cleaning, explor
 
 ---
 
-## 🛠️ Tech Stack
+## 📝 نبذة عني (بالعربي)
+
+أنا **عاطف سالم**، محلل بيانات مهتم بتحويل البيانات الخام إلى رؤى واضحة تساعد أصحاب القرار.  
+أشتغل على كل مراحل تحليل البيانات:  
+• تجهيز وتنظيف البيانات  
+• تحليل استكشافي  
+• بناء لوحات معلومات  
+• استخلاص مؤشرات تساعد في تحسين الأداء  
+
+أسعى دائمًا لتطوير نفسي في SQL، Power BI، وتحليل الأعمال.
+
+---
+
+## 🚀 Featured Projects  
+> أفضل المشاريع اللي بتمثل شغلك كمحلل بيانات. اضفت 3 بشكل احترافي، وتقدر تبعتلي روابطهم وأنا أعدّلهم.
+
+### 📌 **1. Sales Analytics Dashboard – Power BI**  
+تحليل المبيعات مع متابعة الأرباح، العملاء، المنتجات، ومقاييس الأداء الأساسية.  
+**Tech:** Power BI • DAX • Data Modeling  
+
+### 📌 **2. Customer Segmentation – Python**  
+تقسيم العملاء باستخدام K-Means مع تحليل سلوك الشراء وأنماط الإنفاق.  
+**Tech:** Python • Pandas • Scikit-learn • Matplotlib  
+
+### 📌 **3. Data Cleaning & ETL Pipeline**  
+مشروع متكامل لتنظيف البيانات، معالجة القيم المفقودة، وتوحيد الصيغ.  
+**Tech:** Python • Pandas • MySQL
+
+> جاهز أخصصهم بالكامل لو تبعت لي ملفات أو روابط مشاريعك.
+
+---
+
+## 🧩 Skills Breakdown  
 
 ### **Languages**
 <p>
@@ -22,31 +54,25 @@ I work across the full analytics lifecycle: **data preparation, cleaning, explor
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
-
-## 🔧 Tools & Environments
-<p align="left">
-  <!-- Editors & Environments -->
-  <img src="https://skillicons.dev/icons?i=vscode" width="55" />
-  <img src="https://skillicons.dev/icons?i=anaconda" width="55" />
-
-  <!-- BI Tools -->
+### **Analytics & BI Tools**
+<p>
   <img src="https://skillicons.dev/icons?i=powerbi" width="55" />
   <img src="https://skillicons.dev/icons?i=tableau" width="55" />
+  <img src="https://skillicons.dev/icons?i=excel" width="55" />
+</p>
 
-  <!-- Notebooks -->
+### **Development & Environments**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" />
+  <img src="https://skillicons.dev/icons?i=anaconda" width="55" />
   <img src="https://skillicons.dev/icons?i=jupyter" width="55" />
   <img src="https://skillicons.dev/icons?i=colab" width="55" />
+</p>
 
-  <!-- Analytics & Work Tools -->
-  <img src="https://skillicons.dev/icons?i=excel" width="55" />
-
-  <!-- Version Control -->
+### **Version Control**
+<p>
   <img src="https://skillicons.dev/icons?i=git" width="55" />
   <img src="https://skillicons.dev/icons?i=github" width="55" />
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" />
 </p>
 
 ---
