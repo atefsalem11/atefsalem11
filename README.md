@@ -68,28 +68,3 @@ My work covers the full analytics lifecycle: **data preparation, cleaning, explo
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2a5298,100:1e3c72&height=80&section=footer"/>
-
-### Tools & Environments
-<p align="left">
-  <!-- Editors & Environments -->
-  <img src="https://skillicons.dev/icons?i=vscode" width="55" />
-  <img src="https://skillicons.dev/icons?i=anaconda" width="55" />
-
-  <!-- BI Tools -->
-  <img src="https://skillicons.dev/icons?i=powerbi" width="55" />
-  <img src="https://skillicons.dev/icons?i=tableau" width="55" />
-
-  <!-- Notebooks -->
-  <img src="https://skillicons.dev/icons?i=jupyter" width="55" />
-
-  <!-- Analytics & Work Tools -->
-  <img src="https://skillicons.dev/icons?i=excel" width="55" />
-
-  <!-- Version Control -->
-  <img src="https://skillicons.dev/icons?i=git" width="55" />
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" />
-</p>
