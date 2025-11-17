@@ -24,8 +24,8 @@ My work covers the full analytics lifecycle: **data preparation, cleaning, explo
 
 ### **BI & Data Tools**
 <p>
-  <img src="https://camo.githubusercontent.com/f5ebafc96d3fea04148b6da17e57dd3942a28050cf6f59bb8959cb7121de5396/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63662f4e65775f506f7765725f42495f4c6f676f2e737667" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
